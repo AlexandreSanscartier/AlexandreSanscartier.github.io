@@ -32,7 +32,6 @@ twitter_username: AlexSansrire
 github_username: AlexandreSanscartier
 
 # Build settings
-theme: jekyll-theme-hydure
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
