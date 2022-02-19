@@ -10,7 +10,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2.1"
 
 # Jekyll theme. 
-gem "jekyll-theme-hydure"
 gem "jekyll-remote-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
