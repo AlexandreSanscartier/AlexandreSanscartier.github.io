@@ -1,0 +1,15 @@
+- title: Email
+  url: mailto:alex.sanscartier@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/AlexSansrire
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/AlexandreSanscartier
+  icon: fab fa-github
+- title: Facebook
+  url: https://www.facebook.com/alex.sanscartier
+  icon: fab fa-facebook
+- title: Instagram
+  url: https://www.instagram.com/alex.sansidee/
+  icon: fab fa-instagram
